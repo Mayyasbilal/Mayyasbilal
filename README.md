@@ -19,8 +19,6 @@
 - 💬 Ask me about **Flutter, Software**
 
 - 📫 How to reach me **mayyasbilall@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
  
 - 📄 Know about my experiences [Resume]()
 
