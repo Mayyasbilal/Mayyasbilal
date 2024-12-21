@@ -23,7 +23,7 @@
 - 📄 Know about my experiences [Resume]()
 
 - 💎 Fav Quotes:
-    "Don’t stop when you’re tired. Stop when you’re done."
+  "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
